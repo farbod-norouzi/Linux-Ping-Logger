@@ -7,7 +7,7 @@ Download the file first.
 Then install it using the git clone command. Similar to the following command:
 git clone https://github.com/someuser/helloworld.git
 
-After installing the program, enter the program folder using the cd pinger command.
+After installing the program, enter the program folder using the cd Linux-Ping-Logger command.
 After entering the folder, enter the command chmod + x Ping.sh and press Enter.
 Finally run the program using the bash Ping.sh command.
 
