@@ -38,5 +38,5 @@ After selecting the desired option, you must specify the number of envelopes you
 
 Then enter the 8.8.8.8 and press Enter.
 The pinging process begins.
-After sending the selected envelopes, a text file called Site_IP.txt is automatically created for you, in which the information of the performed operations is stored.
+After sending the selected envelopes, a text file called Self_IP.txt is automatically created for you, in which the information of the performed operations is stored.
 
