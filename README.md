@@ -16,7 +16,9 @@ How to use the program:
 After running the program, you will see a menu that has three options.
 
 The first option »to get ping different sites
+
 he second option »to get your internal network ping
+
 Option 3 » View ways to communicate with the programmer
 
 To run the first option:
