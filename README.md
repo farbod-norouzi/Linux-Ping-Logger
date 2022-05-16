@@ -1,7 +1,7 @@
 # Linux-Ping-Logger
 With this program, you can easily ping different sites in Linux operating systems or programs under Linux and easily find the IP of any site you want.
 
-How to install program:
+# How to install program:
 
 Download the file first.
 Then install it using the git clone command. Similar to the following command:
@@ -11,7 +11,7 @@ After installing the program, enter the program folder using the cd Linux-Ping-L
 After entering the folder, enter the command chmod + x Ping.sh and press Enter.
 Finally run the program using the bash Ping.sh command.
 
-How to use the program:
+# How to use the program:
 
 After running the program, you will see a menu that has three options.
 
@@ -40,3 +40,6 @@ Then enter the 8.8.8.8 and press Enter.
 The pinging process begins.
 After sending the selected envelopes, a text file called Self_IP.txt is automatically created for you, in which the information of the performed operations is stored.
 
+# Communication with the programmer
+- Email : norouzif556@gmail.com
+- Telegram : https://t.me/farbod_mi & https://t.me/farbod_mi1
